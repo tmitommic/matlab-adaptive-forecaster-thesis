@@ -1,0 +1,2 @@
+"# matlab-adaptive-forecaster-thesis" 
+Software package Forecaster developed within MATLAB environment for simulation identification of models parameters, processing and forecasting signals originating from financial markets and economy (including i.a. share prices, indexes, currency pairs and macroeconomic indicators) using adaptive algorithms with configurable parameters. Package implements a method for creating time series forecasts utilizing adaptive filter coefficients shaped by given signal (modification of adaptive filter conception that enables forecasting).
